@@ -31,7 +31,7 @@ This project focuses on analyzing retail sales data from a coffee shop to extrac
 
 ## 📈 Dashboard Preview
 
-![Dashboard Screenshot](Coffee Shop sales.png)  
+![Dashboard Screenshot](https://github.com/Sankrita05/Sales-Analytics/blob/main/Coffee%20Shop%20sales.png)  
 *Visual summary of sales trends, product performance, and key metrics*
 
 
